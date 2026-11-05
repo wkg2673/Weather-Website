@@ -7,11 +7,11 @@ Visit the live demo at [wttr.netlify.app](https://wttr.netlify.app/)
 
 ## Features
 
-- **Location Search** – Search for any city or location to get its weather.
+- **Location Search** – Search for any location to get its weather.
 - **Current Weather** – Displays current weather conditions, temperature, wind speed, visibility, and precipitation.
 - **3-Day Forecast** – Shows weather forecasts for the next three days.
 - **Time-Based Forecast** – Weather information is divided into morning, midday, evening, and night.
-- **Terminal-Inspired Design** – Green monospace text on a dark background for a retro terminal aesthetic.
+- **Terminal-Inspired Design** – Green monospace text on a dark background for a terminal aesthetic.
 - **Lightweight** – Built with vanilla HTML, CSS, and JavaScript. No frameworks required.
 
 ## Weather Data Source

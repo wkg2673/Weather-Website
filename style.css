@@ -138,12 +138,10 @@ body.dark #error {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* Pushes footer to bottom */
 main {
   flex: 1;
 }
 
-/* Footer styling */
 footer {
   text-align: center;
   padding: 20px;
